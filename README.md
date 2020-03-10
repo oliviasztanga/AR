@@ -1,5 +1,3 @@
-<img align="right" src="https://github.com/muralARts/AR/blob/master/homescreen.png" width="200" height="400" />
-                                                 
 ## muralARts
 A mobile app built using React Native and augmented reality powered by Viro Media that allows users to select and view curated exhibits in public spaces around New York City. Art collections are stored and queried from Cloud Firestore
 
