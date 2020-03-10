@@ -4,7 +4,7 @@ A mobile app built using React Native and augmented reality powered by Viro Medi
 Developed by: Olivia Sztanga, [Tawana Howard](https://github.com/tawanahow), [Harmony Richman](https://github.com/harmonyrichman), [Windy Sengsatheuane](https://github.com/windyseng)
 
 ## Technologies
-React Native, Redux, Viro Media, Cloud Firestore
+JavaScript, React Native, Redux, Viro Media, Cloud Firestore
 
 ## Demo
 ![](muralARtsUserFlow.gif)
